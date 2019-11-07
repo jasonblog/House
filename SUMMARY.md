@@ -1,5 +1,5 @@
 # Summary
 
 * [房地產投資](README.md)
-* [First Chapter](chapter1.md)
+* [自住購屋術 筆記](House/chapter1.md)
 
